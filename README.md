@@ -20,23 +20,21 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-
-<img src="./assets/banner.svg" width="100%" alt="Black Cap" />
+<img src="./assets/banner.svg" width="100%" alt="Black Cap"/>
 
 Turning ideas into real things.
 I build software, explore web technologies, and work toward turning ambitious ideas into practical digital products.
 
 <p>
   <a href="https://t.me/Croslim">
-    <img src="./assets/telegram.svg" width="42" height="42" alt="Telegram" />
+    <img src="./assets/telegram.svg" width="42" height="42" alt="Telegram"/>
   </a>
-  &nbsp;
   <a href="https://discord.gg/FzC3ZzFbcE">
-    <img src="./assets/discord.svg" width="42" height="42" alt="Discord" />
+    <img src="./assets/discord.svg" width="42" height="42" alt="Discord"/>
   </a>
-  &nbsp;
+  <br>
   <a href="https://www.youtube.com/channel/UCz6SarV7oAePExW17cIOgqw">
-    <img src="./assets/youtube.svg" width="42" height="42" alt="YouTube" />
+    <img src="./assets/youtube.svg" width="42" height="42" alt="YouTube"/>
   </a>
 </p>
 </div>
@@ -56,14 +54,6 @@ I enjoy working on projects from the ground up, exploring how systems work, and 
 
 My development interests include:
 
-<div align="center">
-
-<img src="./assets/js.svg" alt="JavaScript" />
-<img src="./assets/node.svg" alt="Node.js" />
-<img src="./assets/wd.svg" alt="Web development" />
-<img src="./assets/sa.svg" alt="Software architecture" />
-
-</div>
 
 - JavaScript and Node.js
 - Web development
@@ -72,6 +62,13 @@ My development interests include:
 - Security-conscious development
 
 I focus on understanding the tools I use, choosing solutions that fit the problem, and building a strong foundation before adding unnecessary complexity.
+
+<div align="center">
+<img src="./assets/js.svg" alt="JavaScript"/>
+<img src="./assets/node.svg" alt="Node.js"/>
+<img src="./assets/wd.svg" alt="Web development"/>
+<img src="./assets/sa.svg" alt="Software architecture"/>
+</div>
 
 ## Development Philosophy
 
@@ -91,26 +88,8 @@ I believe good software is more than code that works. It should also be understa
 Follow my work, join the community, or explore my content through the links below.
 
 <div align="center">
-
-<a href="https://t.me/Croslim">
-  <img src="./assets/telegram.svg" width="28" height="28" alt="Telegram" />
-  **Telegram**
-</a>
-
-<a href="https://discord.gg/FzC3ZzFbcE">
-  <img src="./assets/discord.svg" width="28" height="28" alt="Discord" />
-  **Discord**
-</a>
-
-<a href="https://www.youtube.com/channel/UCz6SarV7oAePExW17cIOgqw">
-  <img src="./assets/youtube.svg" width="28" height="28" alt="YouTube" />
-  **YouTube**
-</a>
-
+<a href="https://t.me/Croslim">[Telegram]</a>
+<a href="https://discord.gg/FzC3ZzFbcE">[Discord]</a>
+<a href="https://www.youtube.com/channel/UCz6SarV7oAePExW17cIOgqw">[YouTube]</a>
 </div>
-
-<div align="center">
-
-<sub>Independent by mindset. Building with purpose.</sub>
-
-</div>
+<img src="./assets/footer.svg" width="100%" alt="Footer"/>
