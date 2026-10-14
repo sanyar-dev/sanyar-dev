@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="./assets/banner.svg" width="100%" alt="Black Cap"/>
 
-Turning ideas into real things.
-I build software, explore web technologies, and work toward turning ambitious ideas into practical digital products.
+Turning big ideas into reality.
+
+I build software, explore how things work, and create tools that bring ideas to life.
 
 <p>
   <a href="https://t.me/Croslim">
@@ -39,29 +40,11 @@ I build software, explore web technologies, and work toward turning ambitious id
 </p>
 </div>
 
-## About Me
+## About
 
-I'm an independent developer interested in building software, developing web technologies, and creating useful digital products.
+Independent developer. Big ideas. Hands-on building.
 
-I enjoy working on projects from the ground up, exploring how systems work, and finding better ways to turn ideas into maintainable software.
-
-- **Building:** Software projects and digital tools.
-- **Exploring:** Web development, Node.js, and software architecture.
-- **Approach:** Learn by building, improve through iteration, and focus on what matters.
-- **Goal:** Turn ambitious ideas into useful, reliable products.
-
-## Technology & Interests
-
-My development interests include:
-
-
-- JavaScript and Node.js
-- Web development
-- Software architecture
-- Modular and extensible systems
-- Security-conscious development
-
-I focus on understanding the tools I use, choosing solutions that fit the problem, and building a strong foundation before adding unnecessary complexity.
+I work with JavaScript, Node.js, and web technologies, with a particular interest in software architecture, modular systems, and building things from the ground up.
 
 <div align="center">
 <img src="./assets/js.svg" alt="JavaScript"/>
@@ -70,26 +53,18 @@ I focus on understanding the tools I use, choosing solutions that fit the proble
 <img src="./assets/sa.svg" alt="Software architecture"/>
 </div>
 
-## Development Philosophy
+## The Way I Build
 
-> Build with purpose. Keep it understandable. Improve it continuously.
+> Think big. Build from the ground up. Make it real.
 
-I believe good software is more than code that works. It should also be understandable, maintainable, and designed to evolve.
+I like understanding what happens under the hood, designing systems that can grow, and turning ambitious ideas into working software.
 
-- **Ideas into products:** Turn concepts into tangible results.
-- **Simplicity first:** Avoid unnecessary complexity.
-- **Architecture matters:** Build foundations that can grow with the project.
-- **Security by design:** Treat security as part of development, not an afterthought.
-- **Continuous learning:** Experiment, learn, and refine.
-- **Build for the future:** Leave room for improvement and new ideas.
-
-## Connect With Me
-
-Follow my work, join the community, or explore my content through the links below.
+## Connect
 
 <div align="center">
 <a href="https://t.me/Croslim">[Telegram]</a>
 <a href="https://discord.gg/FzC3ZzFbcE">[Discord]</a>
 <a href="https://www.youtube.com/channel/UCz6SarV7oAePExW17cIOgqw">[YouTube]</a>
 </div>
+
 <img src="./assets/footer.svg" width="100%" alt="Footer"/>
